@@ -11,7 +11,7 @@ TO DO LIST:
 some of the features which are going to update soon are 1.like option to like the profiles 2.dislike option 3.upload photo 4.updating this application to GUI by using HTML,CSS,JAVAsCRIPT AND SERVLETS
 
 Getting Started:
-git clone https://github.com/Aravindviswak/javaprojects.git cd my-project
+git clone https://github.com/AjayKumar-402.git cd my-project
 
 usage:
 After project come reside into your local system run the FacebookAppView.java, file you can able to use the App choose your option as the console direct and you good to use the app
